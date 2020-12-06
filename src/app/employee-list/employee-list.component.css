@@ -1,0 +1,12 @@
+.table{
+    width:100%;
+    height: 60px;
+    background-color: rgb(73, 75, 78);
+    color: rgb(13, 13, 19);
+}
+.employee-list{
+    width:100%;
+    height: 60px;
+    background-color: rgb(55, 150, 131);
+    color: rgb(5, 56, 107);
+}
