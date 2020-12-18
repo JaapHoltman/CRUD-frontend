@@ -1,3 +1,6 @@
+# CRUD Project
+This is a java project that I've made for practice purposes and just for fun. It is a webapplication that contains a employee list, where employees can be added (created), can be read, their details can be changed (updated) and they can be deleted, hence a CRUD application. I've used Spring Boot for the backend of the application and Angular for the frontend. It is configered with a MySQL database. Other technologies that I have used are: Apach Maven, HTML/CSS, Bootstrap, JSON.
+
 # AngularFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
